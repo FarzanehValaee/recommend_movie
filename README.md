@@ -1,7 +1,7 @@
 ## Movie Recommender System with NLTK and Tkinter
 
 This project implements a movie recommender system in Python that utilizes the Natural Language Toolkit (NLTK) for text analysis and Tkinter for a user-friendly graphical interface.
-
+<img src="https://github.com/FarzanehValaee/recommend_movie/blob/main/app.JPG">
 
 
 ## Features:
