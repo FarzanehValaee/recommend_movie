@@ -23,7 +23,7 @@ Getting Started:
 
 Install NLTK: Open a terminal or command prompt and run pip install nltk.
 Download NLTK Resources: Run python -m nltk.downloader and select the necessary resources (e.g., stopwords, punkt tokenizer).
-Run the Script: Execute the Python script (e.g., movie_recommender.py) to launch the application.
+Run the Script: Execute the Python script (e.g., movie_recommender.ipynb) to launch the application.
 Usage:
 
 The Tkinter interface will provide input fields or buttons for users to interact with the system. Users can enter the title or a description of a movie they are interested in, and the system will analyze the text and suggest movies with similar themes or keywords.
